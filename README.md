@@ -1,5 +1,5 @@
 <h1>How to Create a VM and Connect Through RDP on MacOS</h1>
-This tutorial outlines the creation of a Vitrual Machine in Azure and how to access it via Remote Desktop.<br />
+This tutorial outlines the creation of a Virtual Machine in Azure and how to access it via Remote Desktop.<br />
 
 <h2>Environments and Technologies Used</h2>
 
